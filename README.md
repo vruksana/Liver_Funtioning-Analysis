@@ -128,12 +128,10 @@ Sample Output
 
 📈 Results
 
-Achieved XX% accuracy using the best-performing model.
+Achieved 84% accuracy using the best-performing model.
 
 Random Forest / Decision Tree usually performs best for this dataset.
 
-(You can tell me your accuracy, and I will update this section.)
-
 👨‍💻 Developer
 
-Your Name – Machine Learning & Data Analysis
+Ruksana – Machine Learning & Data Analysis
